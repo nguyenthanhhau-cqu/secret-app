@@ -2,7 +2,7 @@ const http = require('http');
 
 const server = http.createServer((request, response) => {
     response.writeHead(200, {"Content-Type": "text/plain"});
-    response.end("Hello AZure Clould services! My name is Nguyen Thanh Hau");
+    response.end("Hello World! My name is Nguyen Thanh Hau");
 });
 
 const port = process.env.PORT || 1337;

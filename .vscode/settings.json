@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5dc4b779-1556-49cb-99c7-dbf03d29de52/resourceGroups/nguyenthanhhau-cqu/providers/Microsoft.Web/sites/secret-app",
+    "appService.deploySubpath": "."
+}
